@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="360c8bef-bc23-4ecf-9f16-c8da22f4da1a" name="Changes" comment="444" />
+    <list default="true" id="360c8bef-bc23-4ecf-9f16-c8da22f4da1a" name="Changes" comment="999">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,18 +25,18 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/java/day/test3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java/day/test3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,7 +45,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672667840111</updated>
-      <workItem from="1672667841338" duration="1988000" />
+      <workItem from="1672667841338" duration="3634000" />
+      <workItem from="1672710588578" duration="21000" />
+      <workItem from="1672710669380" duration="369000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1672667911072</created>
@@ -73,7 +77,42 @@
       <option name="project" value="LOCAL" />
       <updated>1672669662639</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="555">
+      <created>1672670118496</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672670118496</updated>
+    </task>
+    <task id="LOCAL-00006" summary="666">
+      <created>1672670530653</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672670530653</updated>
+    </task>
+    <task id="LOCAL-00007" summary="777">
+      <created>1672670773019</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672670773019</updated>
+    </task>
+    <task id="LOCAL-00008" summary="888">
+      <created>1672671015593</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672671015593</updated>
+    </task>
+    <task id="LOCAL-00009" summary="999">
+      <created>1672710701784</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672710701784</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +134,11 @@
     <MESSAGE value="222" />
     <MESSAGE value="333" />
     <MESSAGE value="444" />
-    <option name="LAST_COMMIT_MESSAGE" value="444" />
+    <MESSAGE value="555" />
+    <MESSAGE value="666" />
+    <MESSAGE value="777" />
+    <MESSAGE value="888" />
+    <MESSAGE value="999" />
+    <option name="LAST_COMMIT_MESSAGE" value="999" />
   </component>
 </project>
